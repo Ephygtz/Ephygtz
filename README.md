@@ -18,13 +18,12 @@
   </a>
 </p>
 
-<h3 align="center">A curious, versatile, passionate Full-Stack Software Developer with a knack for back-end development. </h3>
+<h3 align="left">A curious, versatile, passionate Full-Stack Software Developer with a knack for back-end development. </h3>
 
-<p>See [my website](https://ephygtz.github.io) for more information!</p>
+See [my portfolio website](https://ephygtz.github.io) for more information!
 
 
-
-- 🌱 I’m currently learning **Go, NestJS, Spring Boot, Mockito**
+- 🌱 I’m currently learning **Orchestration with; Kubernetes, Jenkins, Terraform  and AWS CloudFormation**
 
 - 💬 Ask me about **Java, JavaScript**
 
