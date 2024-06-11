@@ -1,9 +1,28 @@
-<h1 align="center">Hi 👋, I'm Ephraim Githinji</h1>
-<h3 align="center">A curious and versatile full-stack developer.</h3>
+<img src="images/Ephraim_Githinji.png" width="100%" alt="Banner"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ephygtz&label=Profile%20views&color=0e75b6&style=flat" alt="ephygtz" /> </p>
+<p align="center">
+  <a href="https://ephygtz.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/WEBSITE?style=social&logo=react"/>
+  </a>
+  <a href="https://www.linkedin.com/in/egithinji" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin?style=social&logo=linkedin&logoSize=auto"/>
+  </a>
+  <a href="https://twitter.com/ephygitz" target="_blank">
+    <img src="https://img.shields.io/badge/X?style=social&logo=x&logoSize=auto"/>
+  </a>
+  <a href="https://ephygtz.github.io/assets/updated_Ephraim_Githinji_resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Resume?style=social&logo=readme&logoSize=auto"/>
+  </a>
+  <a href="https://codebender.substack.com" target="_blank">
+      <img src="https://img.shields.io/badge/Blog?style=social&logo=substack&logoSize=auto"/>
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ephygtz" alt="ephygtz" /></a> </p>
+A curious, versatile, passionate Full Stack Software Developer with a knack for back-end development.
+
+See [my website](https://ephygtz.github.io) for more information!
+
+
 
 - 🌱 I’m currently learning **Go, NestJS, Spring Boot, Mockito**
 
