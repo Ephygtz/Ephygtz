@@ -2,25 +2,25 @@
 
 <p align="center">
   <a href="https://ephygtz.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/WEBSITE?style=social&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=for-the-badge&logo=react&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/egithinji" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin?style=social&logo=linkedin&logoSize=auto"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=for-the-badge&logo=linkedin&logo-color=white&logoSize=auto"/>
   </a>
   <a href="https://twitter.com/ephygitz" target="_blank">
-    <img src="https://img.shields.io/badge/X?style=social&logo=x&logoSize=auto"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=X&color=23555f&style=for-the-badge&logo=x&logo-color=white"/>
   </a>
   <a href="https://ephygtz.github.io/assets/updated_Ephraim_Githinji_resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/Resume?style=social&logo=readme&logoSize=auto"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=Resume&color=23555f&style=for-the-badge&logo=readme&logo-color=white"/>
   </a>
   <a href="https://codebender.substack.com" target="_blank">
-      <img src="https://img.shields.io/badge/Blog?style=social&logo=substack&logoSize=auto"/>
+      <img src="https://img.shields.io/static/v1?label=|&message=Blog&color=23555f&style=for-the-badge&logo=substack&logo-color=white"/>
   </a>
 </p>
 
-A curious, versatile, passionate Full Stack Software Developer with a knack for back-end development.
+<h3 align="center">A curious, versatile, passionate Full-Stack Software Developer with a knack for back-end development. </h3>
 
-See [my website](https://ephygtz.github.io) for more information!
+<p>See [my website](https://ephygtz.github.io) for more information!</p>
 
 
 
