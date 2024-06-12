@@ -22,16 +22,89 @@
 
 See [my portfolio website](https://ephygtz.github.io) for more information!
 
+- 🌱 I’m currently learning **Orchestration with; Kubernetes, Jenkins, Terraform and AWS CloudFormation**
 
-- 🌱 I’m currently learning **Orchestration with; Kubernetes, Jenkins, Terraform  and AWS CloudFormation**
-
-- 💬 Ask me about **Java, JavaScript**
-
-- 📫 How to reach me **ephygtz@gmail.com**
-
-- 📄 Know about my experiences [https://ephygtz.github.io/](https://ephygtz.github.io/)
-
-- ⚡ Fun fact **I'm a coffee enthusiast and can often be found experimenting with new brewing methods or trying out local coffee shops.**
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/gif1.gif" width="100%" alt="gif description"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/gif2.gif" width="100%" alt="gif description"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
+    </td>
+  </tr>
+  
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Project Name</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/gif3.gif" width="100%" alt="gif description"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Project Name</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="images/gif4.gif" width="100%" alt="gif description"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -48,4 +121,3 @@ See [my portfolio website](https://ephygtz.github.io) for more information!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ephygtz&show_icons=true&locale=en" alt="ephygtz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ephygtz&" alt="ephygtz" /></p>
-
