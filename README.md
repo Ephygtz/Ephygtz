@@ -26,84 +26,8 @@ See [my portfolio website](https://ephygtz.github.io) for more information!
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
+  <h1 align="center">Working on projects readme file, progress 45%</h1>
   
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="images/gif1.gif" width="100%" alt="gif description"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="images/gif2.gif" width="100%" alt="gif description"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
-    </td>
-  </tr>
-  
-  <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="images/gif3.gif" width="100%" alt="gif description"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Project Name</h3>
-        <br />
-        <a target="_blank" href="#">
-            <img src="images/gif4.gif" width="100%" alt="gif description"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=for-the-badge&logo=github&logo-color=white"/>
-  </a>  
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=for-the-badge&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p><strong>Tech Stack Used</strong> - Awesome Project description and how to use it</p>
-    </td>
-  </tr>
 </table>
 
 <h1 align="center">Technologies</h1>
